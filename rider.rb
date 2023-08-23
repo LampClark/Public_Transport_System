@@ -14,3 +14,5 @@ class Rider
       @card.deduct_fare(abs_fare)
   end
 end
+
+# test
